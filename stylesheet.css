@@ -86,15 +86,15 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .header-right {
-  float: left;
+  float: right;
 }
 
 .header-left {
-  float: right;
+  float: left;
   margin-right: -25px;
 }
 
