@@ -146,6 +146,11 @@ header {
   color: white;
 }
 
+.lesson2 {
+  float: left;
+  width: 25%;
+}
+
 .lesson-icon2 {
   display: inline-block;
 }
