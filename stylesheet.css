@@ -195,16 +195,22 @@ header {
 
 footer img {
   width: 125px;
+  position: absolute;/*←絶対位置*/
+  bottom: 0; /*下に固定*/
 }
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  position: absolute;/*←絶対位置*/
+  bottom: 0; /*下に固定*/
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  position: absolute;/*←絶対位置*/
+  bottom: 0; /*下に固定*/
 }
 
 .menu-icon {
