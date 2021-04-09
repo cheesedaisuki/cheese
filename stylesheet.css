@@ -147,11 +147,11 @@ header {
 }
 
 .lesson-icon2 {
-  position: flex;
+  display: inline-block;
 }
 
 .lesson-icon2 p {
-  position: flex;
+  display: block;
   top: 37%;
   width: 100%;
   color: white;
