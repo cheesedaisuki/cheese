@@ -26,13 +26,13 @@ a {
 }
 
 .top-wrapper h1 {
-  opacity: 0.7;
+  opacity: 0.8;
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
-  opacity: 0.7;
+  opacity: 0.8;
   font-size: 16px;
   margin-bottom: 40px;
 }
@@ -140,6 +140,17 @@ header {
 }
 
 .lesson-icon p {
+  position: absolute;
+  top: 37%;
+  width: 100%;
+  color: white;
+}
+
+.lesson-icon2 {
+  position: relative;
+}
+
+.lesson-icon2 p {
   position: absolute;
   top: 37%;
   width: 100%;
