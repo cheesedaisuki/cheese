@@ -152,7 +152,7 @@ header {
 }
 
 .lesson-icon2 {
-  display: inline-block;
+  display: relative;
 }
 
 .lesson-icon2 p {
