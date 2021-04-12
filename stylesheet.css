@@ -156,7 +156,7 @@ header {
 }
 
 .lesson-icon2 p {
-  display: block;
+  display: flex;
   top: 37%;
   width: 100%;
   color: white;
