@@ -217,6 +217,12 @@ footer {
     width: 50%;
     margin-bottom: 50px;
   }
+  
+@media all and (max-width: 1000px) {
+  .lesson2 {
+    width: 50%;
+    margin-bottom: 50px;
+  }
 
   .lesson-wrapper {
     height: 990px;
@@ -269,6 +275,10 @@ footer {
   .lesson {
     width: 100%;
   }
+  
+ .lesson2 {
+    width: 100%;
+  }  
 
   .lesson-wrapper {
     height: 1700px;
