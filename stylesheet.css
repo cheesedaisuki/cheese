@@ -135,6 +135,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  display: flex
 }
 
 .lesson-icon p {
