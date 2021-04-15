@@ -154,6 +154,7 @@ header {
 .lesson-icon2 {
   position: relative;
   justify-content: space-evenly
+  display: inline-block
 }
 
 .lesson-icon2 p {
@@ -161,7 +162,6 @@ header {
   top: 37%;
   width: 100%;
   color: white;
-  display: inline-block;
 }
 
 .heading h3 {
