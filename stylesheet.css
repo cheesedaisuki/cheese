@@ -161,6 +161,7 @@ header {
   top: 37%;
   width: 100%;
   color: white;
+  display: inline-block;
 }
 
 .heading h3 {
