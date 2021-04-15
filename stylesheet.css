@@ -199,6 +199,8 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  position: absolute;
+  bottom: 0;
 }
 
 .menu-icon {
