@@ -11,13 +11,9 @@ a {
   text-decoration: none;
 }
 
-.header { 
-  padding: 180px 0 100px 0;
-  background-size: cover;
-  }
-
 .top-wrapper {
   padding: 180px 0 100px 0;
+  background-image: url(IMG_4949.jpg);
   color: white;
   text-align: center;
 }
