@@ -137,6 +137,7 @@ header {
 .lesson-icon {
   position: relative;
   display: flex
+  text-align: center;
 }
 
 .lesson-icon p {
@@ -154,6 +155,7 @@ header {
   position: relative;
   justify-content: space-evenly;
   display: flex;
+  text-align: center;
 }
 
 .lesson-icon2 p {
